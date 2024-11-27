@@ -1,2 +1,1 @@
-# Full-stack-developer-
-AOTHER KHUSHBU
+# Full-stack-developer
